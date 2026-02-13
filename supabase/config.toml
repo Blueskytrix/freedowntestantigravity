@@ -1,0 +1,22 @@
+project_id = "bjxocgkgatkogdmzrrfk"
+
+[functions.load-session-memory]
+verify_jwt = false
+
+[functions.save-conversation]
+verify_jwt = false
+
+[functions.retrieve-relevant-memories]
+verify_jwt = false
+
+[functions.import-text-memories]
+verify_jwt = false
+
+[functions.github-ops]
+verify_jwt = false
+
+[functions.ai-orchestrator]
+verify_jwt = false
+
+[functions.keep-alive]
+verify_jwt = false
